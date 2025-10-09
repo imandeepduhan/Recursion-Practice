@@ -1,5 +1,4 @@
 /*
-Approach:
 Use recursion to print numbers from 1 to n linearly. 
 Start from the initial value i = 1 and print it. 
 Then call the function recursively with i + 1 until i exceeds n. 
