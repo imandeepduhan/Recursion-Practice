@@ -1,5 +1,4 @@
 /*
-Approach:
 This program prints numbers from 1 to n using recursion without using an incrementing loop variable. 
 The function first makes a recursive call with (i - 1), which goes down to the base case when i < 1. 
 As the recursive calls start returning, the numbers are printed in increasing order from 1 to n. 
