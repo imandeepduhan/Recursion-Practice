@@ -1,5 +1,4 @@
 /*
-Approach:
 This program prints a given name multiple times using recursion. 
 A static counter variable is used to keep track of how many times the name has been printed. 
 The recursive call continues until the counter exceeds 5, at which point the recursion stops.
