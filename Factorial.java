@@ -1,5 +1,4 @@
 /*
-Approach:
 This program calculates the factorial of a given number using recursion. 
 If n equals 1, it returns 1 as the base case. 
 Otherwise, it recursively calls factorial(n-1) and multiplies it by n, 
